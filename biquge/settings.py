@@ -45,6 +45,7 @@ DEFAULT_REQUEST_HEADERS = {
             'Connection': 'keep-alive',
             'Cookie': '_ga=GA1.2.176217171.1621396438; Hm_lvt_667639aad0d4654c92786a241a486361=1621396439,1623223373; likes=',
             'Host': 'bing.ioliu.cn',
+            'Referer': 'https://bing.ioliu.cn/',
             'Upgrade-Insecure-Requests': '1',
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
